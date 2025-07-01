@@ -1,0 +1,4 @@
+- core: main process board, including controller, FPGA, Audio DAC, EEPROM, battery charger and potentiometers(with buttons)
+- pickguard: CAD file of pickguard
+- pickup: Analog FrontEnd of pickup and Reflective Screen, sample signal from pickup and transport to main board via PDM signal in stereo
+- plug: Plugs, including Type-C(may support Type-C Analog Headphone), SDcard, Headphone Out Jack, Line In Jack, Switch(mux between Bluetooth Receiver and Analog Line In)
